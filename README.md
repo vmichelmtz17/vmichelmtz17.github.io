@@ -12,6 +12,6 @@ Naturalmente, en el mando a distancia, cada tecla tiene un código asociado a el
 ![Image text](https://github.com/vmichelmtz17/vmichelmtz17.github.io/blob/main/REMOTEIR.jpg)
 
 El control remoto, es el cifrado de los distintos impulsos con diversos bits y secuencias, por ejemplo, el botón de encendido/apagado es
-
+![Image text](https://github.com/vmichelmtz17/vmichelmtz17.github.io/blob/main/FIG1.gif)
 
 En el extremo receptor, el detector IR demodula esta señal, y emite una señal de nivel lógico que indica si se está recibiendo una señal o no. El detector de infrarrojos, funciona mejor cuando su frecuencia coincide con la frecuencia del emiso.
