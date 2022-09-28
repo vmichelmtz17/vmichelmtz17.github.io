@@ -10,3 +10,8 @@ Este tipo de de señal tiene muy poco alcance, apenas unos metros, comparada con
 
 Naturalmente, en el mando a distancia, cada tecla tiene un código asociado a ella (por lo general de 12 a 32 bits), y transmite este código cuando se pulsa esa tecla. Si la tecla se mantiene pulsada, el mando a distancia normalmente transmite repetidamente el código clave. En los controles remotos de Philips RC5 o RC6, el código activa un bit cada vez que se pulsa una tecla, el receptor utiliza este bit de conmutación para determinar cuando se pulsa una tecla por segunda vez.
 ![Image text](https://github.com/vmichelmtz17/vmichelmtz17.github.io/blob/main/REMOTEIR.jpg)
+
+El control remoto, es el cifrado de los distintos impulsos con diversos bits y secuencias, por ejemplo, el botón de encendido/apagado es
+
+
+En el extremo receptor, el detector IR demodula esta señal, y emite una señal de nivel lógico que indica si se está recibiendo una señal o no. El detector de infrarrojos, funciona mejor cuando su frecuencia coincide con la frecuencia del emiso.
