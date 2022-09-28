@@ -1,5 +1,7 @@
 # vmichelmtz17.github.io
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5620351.png" width="373" height="86" alt="IR REMOTE" /></a>
+![Image text](https://github.com/vmichelmtz17/vmichelmtz17.github.io/blob/main/emisor.gif)
+
 
 Un mando universal, también conocido como control remoto universal, es un control remoto capaz de controlar distintos elementos (como equipos audiovisuales, aire acondicionado o sistemas de robótica) de uno o varios fabricantes distintos, mediante códigos IR (infrarrojos), porque tiene almacenados esos códigos de control en una base de datos interna o porque es capaz de aprender los códigos IR del mando original del elemento a controlar.
 
